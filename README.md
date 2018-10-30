@@ -4,7 +4,7 @@
 
 # 10月21日
     21:10 - 01:00 浦东国际机场 T2 - 三义机场 JD5666
-        晚上到达丽江比较晚，在机场附近住了一晚。订了 [丽江机场居家酒店][http://hotels.ctrip.com/hotel/2077847.html?checkin=2018-10-30&checkout=2018-10-31&OperationAction=HotelDetail&RepeatAction=HotelDomestic_Repeat_HotelDetail]
+        晚上到达丽江比较晚，在机场附近住了一晚。订了 [丽江机场居家酒店](http://hotels.ctrip.com/hotel/2077847.html?checkin=2018-10-30&checkout=2018-10-31&OperationAction=HotelDetail&RepeatAction=HotelDomestic_Repeat_HotelDetail)
         酒店还不错，晚上到老板也负责接送。酒店斜对面就是去丽江古城的公交站。我们第二天早上坐公交27路（每人6元）去了丽江古城，大概1个小时路程。具体坐车可以百度地图。
 
 # 10月22日
