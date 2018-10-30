@@ -23,10 +23,10 @@
 
 # 鲜花饼
 主要列一下以下几种
-品牌|评论
------------- | -------------
-[嘉华](https://jiahuafood.tmall.com/shop/view_shop.htm?spm=a230r.1.14.5.495e131dkRtyTB&user_number_id=911772588)|价格比较贵，但很出名，味道也还可以。
-[潘祥记](https://panxiangji.tmall.com/?ali_refid=a3_430583_1006:1107023701:N:%E6%BD%98%E7%A5%A5%E8%AE%B0%E9%B2%9C%E8%8A%B1%E9%A5%BC:fc8c0790691465530622f52edcae3801&ali_trackid=1_fc8c0790691465530622f52edcae3801&spm=a230r.1.14.4)|价格相对嘉华便宜一点，味道也还可以。
-其他|没尝过，听导游说，鲜花饼在云南都是正宗的，有机会可以尝一下。
+|品牌|评论|
+|------------ | -------------|
+|[嘉华](https://jiahuafood.tmall.com/shop/view_shop.htm?spm=a230r.1.14.5.495e131dkRtyTB&user_number_id=911772588)|价格比较贵，但很出名，味道也还可以。|
+|[潘祥记](https://panxiangji.tmall.com/?ali_refid=a3_430583_1006:1107023701:N:%E6%BD%98%E7%A5%A5%E8%AE%B0%E9%B2%9C%E8%8A%B1%E9%A5%BC:fc8c0790691465530622f52edcae3801&ali_trackid=1_fc8c0790691465530622f52edcae3801&spm=a230r.1.14.4)|价格相对嘉华便宜一点，味道也还可以。|
+|其他|没尝过，听导游说，鲜花饼在云南都是正宗的，有机会可以尝一下。|
 
 # 普洱
